@@ -117,7 +117,7 @@
   line-height: 52px;
 }
 
-.recipe__subtitle {
+.recipes__subtitle {
   max-width: 438px;
   margin: 24px 0 80px 80px;
   font-family: "Noto serif";
@@ -125,26 +125,26 @@
   line-height: 30px;
 }
 
-.recipe__videos {
+.recipes__videos {
   display: flex;
   margin: auto;
   margin-bottom: 215px;
   gap: 40px;
 }
 
-.recipe__video-item {
+.recipe__video {
   height: 273px;
   width: 480px;
   border: none;
 }
 
-.recipe__video-caption {
+.recipes__caption {
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
 }
 
-.recipe__video_container-caption {
+.recipes__containers {
   display: flex;
   justify-content: space-between;
 }
